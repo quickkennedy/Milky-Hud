@@ -11,8 +11,8 @@
 		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"MilkyBG"
-		"PaintBackgroundType"	"0"
+		"bgcolor_override"	"TransparentBlack"
+		"PaintBackgroundType"	"2"
 	}
 
 	"StopWatchImageCaptureTime"
@@ -46,8 +46,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"Gotham-Bold10"
-			"fgcolor"		"MilkyFG"
+			"font"			"HudFontSmallest"
+			"fgcolor"		"TanLight"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"1"
@@ -63,7 +63,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"StopWatchScoreToBeat"
-		"font"			"Gotham-Bold10"
+		"font"			"HudFontSmallest"
 		"labelText"		"%scoretobeat%"
 		"textAlignment"	"center"
 		"xpos"			"5"
@@ -75,14 +75,13 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fgcolor"		"MilkyFG"
 	}
 
 	"StopWatchPointsLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"StopWatchPointsLabel"
-		"font"			"Gotham-Bold10"
+		"font"			"HudFontSmallest"
 		"labelText"		"points in"
 		"textAlignment"	"center"
 		"xpos"			"20"
@@ -95,14 +94,13 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
-		"fgcolor"		"MilkyFG"
 	}
 
 	"StopWatchLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"StopWatchLabel"
-		"font"			"Gotham-Bold10"
+		"font"			"Volkswagen10"
 		"labelText"		"%stopwatchlabel%"
 		"textAlignment"	"center"
 		"xpos"			"0"
@@ -115,7 +113,6 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"0"
-		"fgcolor"		"MilkyFG"
 	}
 
 	"HudStopWatchDescriptionBG"

@@ -165,7 +165,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Background"
-		"xpos"			"0"
+		"xpos"			"99999"
 		"ypos"			"0"
 		"zpos"			"-200"
 		"wide"			"f0"

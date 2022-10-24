@@ -12,6 +12,7 @@ Scheme{Colors{
 	"MilkyBLU"			"0 153 255 255"
 	"MilkyRED"			"245 29 29 255"
 
+	"MilkyAccent"		"102 102 255 255"
 		
 	"Damage Numbers"      "255 99 224 255"
 
@@ -451,8 +452,8 @@ Scheme{Colors{
 
 		HTML.BgColor					"Blank"
 
-		ProgressBar.FgColor				"ProgressOffWhite"
-		ProgressBar.BgColor				"ProgressBackground"
+		ProgressBar.FgColor				"255 255 255 255"
+		ProgressBar.BgColor				"51 51 51 178"
 
 		CircularProgressBar.FgColor		"White"
 		CircularProgressBar.BgColor		"White"

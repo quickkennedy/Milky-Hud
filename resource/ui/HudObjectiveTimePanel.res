@@ -27,7 +27,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"TimePanelMilkyBG"
-		"xpos"		"31"
+		"xpos"		"99999"
 		"ypos"		"0"
 		"zpos"		"2"
 		"wide"		"38"
@@ -71,7 +71,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"WaitingForPlayersLabel"
-		"xpos"			"30"
+		"xpos"			"99999"
 		"ypos"			"15"
 		"zpos"			"5"
 		"wide"			"40"
@@ -114,7 +114,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"OvertimeLabel"
-		"xpos"			"30"
+		"xpos"			"99999"
 		"ypos"			"13"
 		"zpos"			"5"
 		"wide"			"40"
@@ -157,7 +157,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SuddenDeathLabel"
-		"xpos"			"20"
+		"xpos"			"99999"
 		"ypos"			"12"
 		"zpos"			"5"
 		"wide"			"60"
@@ -200,7 +200,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SetupLabel"
-		"xpos"			"30"
+		"xpos"			"99999"
 		"ypos"			"15"
 		"zpos"			"5"
 		"wide"			"40"

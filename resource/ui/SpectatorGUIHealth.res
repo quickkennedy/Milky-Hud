@@ -110,7 +110,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"PlayerStatusHealthValueTargetID"
 		"xpos"			"-22"
-		"ypos"			"-1"
+		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"74"
 		"tall"			"11"

@@ -427,14 +427,14 @@ Lozenge
 		"fieldName" "HudKothTimeStatus"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c-100"
+		"xpos"	"cs-0.5"
 		"ypos"	"0"
-		"wide"	"200"
+		"wide"	"86"
 		"tall"	"60"
 		
-		"blue_active_xpos"			"31"
+		"blue_active_xpos"			"0"
 	
-		"red_active_xpos"			"125"
+		"red_active_xpos"			"46"
 	}	
 
 	HudItemEffectMeter
@@ -1407,11 +1407,11 @@ Lozenge
 		"fieldName"				"HudStopWatch"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-131"
-		"ypos"					"-20"
-		"ypos_lodef"				"75"
-		"wide"					"112"
-		"tall"					"55"
+		"xpos"				"cs-0.5"
+		"ypos"				"19"
+		"zpos"				"0"
+		"wide"				"90"
+		"tall"				"15"
 	}
 	
 	NotificationPanel
