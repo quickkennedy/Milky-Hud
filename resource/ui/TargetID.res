@@ -31,45 +31,13 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"TargetIDBG_Spec_Blue"
-		"xpos"			"0"
-		"ypos"			"32"
-		"zpos"			"-1"
-		"wide"			"252"
-		"tall"	 		"30"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_blue_bg"
-		"image_lodef"	"../hud/objectives_timepanel_blue_bg"
-		
-		"src_corner_height"		"3"				// pixels inside the image
-		"src_corner_width"		"3"
-			
-		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"
+		"xpos"			"99999"
 	}
 	"TargetIDBG_Spec_Red"
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"TargetIDBG_Spec_Red"
-		"xpos"			"0"
-		"ypos"			"32"
-		"zpos"			"-1"
-		"wide"			"252"
-		"tall"	 		"30"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_red_bg"
-		"image_lodef"	"../hud/objectives_timepanel_red_bg"
-		
-		"src_corner_height"		"3"				// pixels inside the image
-		"src_corner_width"		"3"
-			
-		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"
+		"xpos"			"99999"
 	}
 	"TargetBGshade"
 	{
