@@ -1522,11 +1522,11 @@ Lozenge
 		"fieldName"				"HudInspectPanel"
 		"visible"				"0"
 		"enabled"				"1"
-		"xpos"					"rs1"
-		"ypos"					"rs1"
+		"xpos"					"r270"
+		"ypos"					"300"
 		"zpos"					"10"
-		"wide"					"200"
-		"tall"					"f0"
+		"wide"					"270"
+		"tall"					"180"
 	}
 	
 	
