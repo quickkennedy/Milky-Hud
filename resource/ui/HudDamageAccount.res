@@ -9,8 +9,8 @@
 		"PositiveColor"		"Damage Numbers"
 		"NegativeColor"		"Damage Numbers"
 		"delta_lifetime"		"1.6"
-		"delta_item_font"		"Gotham-Medium23"
-		"delta_item_font_big"	"Gotham-Medium23"
+		"delta_item_font"		"Gotham-Black20"
+		"delta_item_font_big"	"Gotham-Black20"
 	}
 	"DamageAccountValue"
 	{
@@ -21,7 +21,7 @@
 		"zpos"			"2"
 		"wide"			"101"
 		"tall"			"26"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"east"
