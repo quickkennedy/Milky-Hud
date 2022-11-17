@@ -221,10 +221,9 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
-		"xpos"			"rs1-10"
-		"ypos"			"r100"
+		"xpos"			"r200"
+		"ypos"			"0"
 		"zpos"			"10"
-		"wide"			"268" //"190"
 		"tall"			"100"
 		"visible"		"0"
 		"bgcolor_override"		"255 255 255 0"
@@ -237,7 +236,7 @@
 		
 		"text_xpos"		"10"
 		"text_ypos"		"10"
-		"text_wide"		"248"//"170"
+		"text_wide"		"170"
 		"text_center"	"1"
 		
 		"max_text_height"	"100"
