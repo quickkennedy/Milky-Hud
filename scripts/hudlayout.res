@@ -871,6 +871,7 @@ Lozenge
 		"fieldName" "HudMessage"
 		"visible" "1"
 		"enabled" "1"
+		"xpos"		"99999"
 		"wide"	 "640"
 		"tall"	 "480"
 	}
