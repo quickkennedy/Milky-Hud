@@ -1,12 +1,14 @@
-# Milky-Hud
-Screenshots: https://imgur.com/a/d74Up
+<div align="center">
 
-How to Download and Install: https://imgur.com/a/w3Ah6
+# Milky Hud 
+### By Broesel
 
-Original Damage Color:
+**[SCREENSHOTS](../screenshots/showcase.md)** -
+**[INSTALLATION](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/installation/windows_install.md)** -
+**[CONTRIBUTING](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/contributing/github_contributing.md)**
 
-hud_combattext_red 255
-
-hud_combattext_green 99
-
-hud_combattext_blue 224
+![Main Menu](../screenshots/01_Main_Menu.jpg)
+![Health Buff](../screenshots/02_Health_Buff.jpg)
+![Health & Ammo Low](../screenshots/03_Health_Ammo_Low.jpg)
+![Scoreboard](../screenshots/04_Scoreboard.jpg)
+![Win & Damage](../screenshots/05_Win.jpg)
